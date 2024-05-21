@@ -20,7 +20,7 @@ Quelques trucs que j'aime :
 
 
 ```
- J'ai cette peur permanente de pas être à la hauteur et de me retrouver à la traine par rapport au groupe. Ce qui me motive aussi à travailler encore plus dur.
+ J'ai cette peur de pas être à la hauteur et de me retrouver à la traine par rapport au groupe. Ce qui me motive aussi à travailler encore plus dur.
 ```
 
 **J'ai hâte de pouvoir commencer à coder de vrai site complet et fonctionnel....**
