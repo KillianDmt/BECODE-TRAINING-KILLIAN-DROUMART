@@ -11,8 +11,10 @@ Everything connected to the Internet directly or indirectly has an IP Adress. An
 
 As the packet makes its way over the Internet back to your computer, each router unwraps a layer to discover where to send the packet next until it reaches your computer. 
 
-# This theory file has been reviewed by Brieuc de Goussencourt
-## I wonder how you extracted the text from the video? Did you use any software?
+*This theory file has been reviewed by Brieuc de Goussencourt* <br />
+*This theory file has been reviewed by Nathaniel Akingbade*
 
-## New comment
-## Encore un new comment
+[comment]: <> (I wonder how you extracted the text from the video? Did you use any software?)
+[comment]: <> (New comment)
+[comment]: <> (Encore un new comment)
+
