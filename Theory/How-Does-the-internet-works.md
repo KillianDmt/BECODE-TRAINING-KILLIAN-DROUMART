@@ -1,6 +1,6 @@
 # How does the internet works ? 
 
-Whenever most people thonk of the internet, this is what comes to mind. The internet is not a bubble cloud, event in the new age of cloud computing. The whole fuzzy cloud picture was created by people more concerned about job security than education.
+Whenever most people think of the internet, this is what comes to mind. The internet is not a bubble cloud, event in the new age of cloud computing. The whole fuzzy cloud picture was created by people more concerned about job security than education.
 
 The Internet is a wire, actually buried in the ground. It might be fiber optics, copper or occasionnaly beamed to satellites or through cell phone networks, but the internet is simply a wire. The Internet is useful because two computers connected directly to this wire can communicate. A server is a special computer connected directly to the Internet, and web pages are files on that server's hard drive. Every server has a unique Internet Protocol Adress, or IP address. Just like a postal address, IP address help computers find each other. We also give them names like google.com, facebook.com,... Your computer at home is not a server because it is not connected directly to the internet. 
 
