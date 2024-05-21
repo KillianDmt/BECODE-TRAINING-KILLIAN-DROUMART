@@ -10,3 +10,6 @@ Whenever an email, picture, or web page travels across the internet, compurters 
 Everything connected to the Internet directly or indirectly has an IP Adress. Anywhere two or more parts of the Internet intersect, there's a piece of equipement called router. Routers direct your packets around the Internet, helping each packet get one step closer to its destination. Every time you visit a website, Upwards of 10 to 15 routers may help your packets find their way to and from your computer. Each time a packet reaches a new computer/router it gets a new layer (the IP adress of the system). Then when the server sends back information, it creates packets with those identical layer. 
 
 As the packet makes its way over the Internet back to your computer, each router unwraps a layer to discover where to send the packet next until it reaches your computer. 
+
+# This theory file has been reviewed by Brieuc de Goussencourt
+## I wonder how you extracted the text from the video? Did you use any software?
